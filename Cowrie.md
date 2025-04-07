@@ -11,4 +11,4 @@ Cowrie requiere varias dependencias para funcionar correctamente. Instala las si
 ```bash
 sudo apt install python3 python3-pip python3-virtualenv libssl-dev libffi-dev build-essential -y
 ```
-### Paso 3: 
+![alt text](/ANEXOS/image_cowrie.png)
