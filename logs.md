@@ -23,7 +23,7 @@ Este script permite descargar logs de un servidor remoto utilizando SSH y `sshpa
 - El script crea una carpeta `logs_backup` en el directorio actual para almacenar los logs descargados.
 
 
-´´´bash
+```bash
 #!/bin/bash
 
 # Solicitar datos de conexión
